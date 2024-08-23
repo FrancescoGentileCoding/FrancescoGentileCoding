@@ -13,16 +13,21 @@ I'm a passionate **Full-Stack Developer** an i'm here to share my love for codin
   - Html5 🌐 (⭐⭐⭐⭐)
   - Css3 🎨 (⭐⭐⭐⭐)
   - TailwindCss 🌟 (⭐⭐⭐⭐)
-  - React ⚛️ (⭐⭐⭐⭐)
+  - Scss ⚛️ (⭐⭐⭐⭐)
+  - Bootstrap ⚛️ (⭐⭐⭐⭐)
+  - ReactJS ⚛️ (⭐⭐⭐⭐)
+  - Angular ⚛️ (⭐⭐⭐⭐)
+  - Typescript ⚛️ (⭐⭐⭐⭐)
 - **Back-End:** 
   - Node.js 🚀 (⭐⭐⭐⭐)
   - Express 🛤️ (⭐⭐⭐⭐)
+  - Yarn 🛤️ (⭐⭐⭐⭐)
 - **Database:** 
   - MongoDB 📊 (⭐⭐⭐⭐)
+  - GraphQL 
 - **Tools:** 
   - Git 📜 (⭐⭐⭐⭐)
   - GitHub 🐱 (⭐⭐⭐⭐)
-  - Yarn 🧶 (⭐⭐⭐⭐)
   - Postman 📮 (⭐⭐⭐⭐)
 - **Methodologies:** 
   - Agile 🏁 (⭐⭐⭐⭐)
