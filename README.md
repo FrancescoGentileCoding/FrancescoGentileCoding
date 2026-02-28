@@ -5,33 +5,47 @@
 
 # Tech Enthusiast at Work - Francesco IM Gentile's Portfolio 💼👨‍💻 👋
 
-I'm a passionate **Full-Stack Developer** an i'm here to share my love for coding and creative solutions with the world.
+I'm a passionate **Junior Full-Stack Developer** an i'm here to share my love for coding and creative solutions with the world.
 
 ## 🛠️ Technical Skills
 
-- **Front-End:** 
-  - Html5 🌐 (⭐⭐⭐⭐)
-  - Css3 🎨 (⭐⭐⭐⭐)
-  - TailwindCss 🌟 (⭐⭐⭐⭐)
-  - Scss ⚛️ (⭐⭐⭐⭐)
-  - Bootstrap ⚛️ (⭐⭐⭐⭐)
-  - ReactJS ⚛️ (⭐⭐⭐⭐)
-  - Angular ⚛️ (⭐⭐⭐⭐)
-  - Typescript ⚛️ (⭐⭐⭐⭐)
-- **Back-End:** 
-  - Node.js 🚀 (⭐⭐⭐⭐)
-  - Express 🛤️ (⭐⭐⭐⭐)
-  - Yarn 🛤️ (⭐⭐⭐⭐)
-- **Database:** 
-  - MongoDB 📊 (⭐⭐⭐⭐)
-  - GraphQL 
-- **Tools:** 
-  - Git 📜 (⭐⭐⭐⭐)
-  - GitHub 🐱 (⭐⭐⭐⭐)
-  - Postman 📮 (⭐⭐⭐⭐)
-- **Methodologies:** 
-  - Agile 🏁 (⭐⭐⭐⭐)
-  - Scrum 🔄 (⭐⭐⭐⭐)
+- **Front-End:**  
+  - HTML5 🌐  
+  - CSS3 🎨  
+  - TailwindCSS 🌟  
+  - SCSS ⚛️  
+  - Bootstrap ⚛️  
+  - ReactJS ⚛️  
+  - Angular ⚛️  
+  - TypeScript ⚛️  
+
+- **Back-End / Java Ecosystem:**  
+  - Java 21 ☕  
+  - Spring Boot 3.x 🚀  
+  - Spring Data JPA + Hibernate 🗄️  
+  - Node.js 🚀  
+  - Express 🛤️  
+
+- **Databases & Storage:**  
+  - MySQL 🐬  
+  - MongoDB 📊  
+  - Redis (cache, session) 🔑  
+  - Elasticsearch (opzionale, full-text search) 🔍  
+  - S3 / MinIO (file storage) 🗂️  
+
+- **DevOps & Infrastructure:**  
+  - Docker 🐳 + Kubernetes ☸️  
+  - Nginx / Traefik 🌐  
+  - RabbitMQ / Kafka (event bus) ⚡  
+  - Flyway / Liquibase (DB migrations) 📜  
+
+- **Tools & Methodologies:**  
+  - Git 📜  
+  - GitHub 🐱  
+  - Postman 📮  
+  - Agile 🏁  
+  - Scrum 🔄  
+
 
 ## 🚀 Key Attributes
 
@@ -51,13 +65,20 @@ I am known for being:
 
 I look forward to collaborating with you on exciting projects! Whether you're an HR professional or another developer, feel free to reach out to me for job opportunities or to share ideas and suggestions.
 
-```javascript
-function startCoding() {
-    const enthusiasmLevel = 5; // Out of 10
-    const creativityLevel = 5; // Out of 10
-    const determinationLevel = 5; // Out of 10
+public class StartCoding {
 
-    console.log(`Let's start coding with ${enthusiasmLevel} enthusiasm, ${creativityLevel} creativity, and ${determinationLevel} determination! 💻`);
+    public static void main(String[] args) {
+        startCoding();
+    }
+
+    public static void startCoding() {
+        int enthusiasmLevel = 5;   // Out of 10
+        int creativityLevel = 5;   // Out of 10
+        int determinationLevel = 5; // Out of 10
+
+        System.out.println("Let's start coding with " + enthusiasmLevel 
+            + " enthusiasm, " + creativityLevel 
+            + " creativity, and " + determinationLevel 
+            + " determination! 💻");
+    }
 }
-
-startCoding();
