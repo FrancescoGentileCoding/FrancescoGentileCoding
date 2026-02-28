@@ -14,9 +14,6 @@ Sono un appassionato **Junior Full-Stack Developer** e sono qui per condividere 
 | - HTML5 🌐<br>- CSS3 🎨<br>- Tailwind🌟<br>- SCSS ⚛️<br>- Bootstrap ⚛️<br>- ReactJS ⚛️<br>- Angular ⚛️<br>- TypeScript ⚛️ | - Java 21 ☕<br>- Spring Boot 3.x 🚀<br>- Spring Data JPA🗄️ <br>- Hibernate 🗄️<br>- Node.js 🚀<br>- Express 🛤️ | - MySQL 🐬<br>- MongoDB 📊<br>- Redis 🔑<br>- Elasticsearch 🔍<br>- S3 / MinIO 🗂️ | - Docker 🐳<br>- Kubernetes ☸️<br>- Nginx / Traefik 🌐<br>- RabbitMQ / Kafka ⚡<br>- Flyway / Liquibase 📜 | - Git 📜<br>- GitHub 🐱<br>- Insomnia 💤<br>- Postman 📮<br>- Agile 🏁<br>- Scrum 🔄 |
 
 
-
-<br>
-<br>
 <br>
 ## 💡 Key Attributes
 
@@ -33,7 +30,7 @@ Sono conosciuto per essere:
 - 😎 **Intrepido:** Affronto nuove tecnologie  
 - 🤓 **Ingegnoso:** Soluzioni anche difficili
 
-
+<br>
 Non vedo l’ora di collaborare con te su progetti entusiasmanti! 
 Che tu sia un professionista HR o un altro sviluppatore, sentiti libero di contattarmi 
 per opportunità di lavoro o per condividere idee e suggerimenti.
