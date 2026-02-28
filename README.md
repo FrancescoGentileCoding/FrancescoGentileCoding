@@ -32,41 +32,8 @@ Non vedo l’ora di collaborare con te su progetti entusiasmanti!
 Che tu sia un professionista HR o un altro sviluppatore, sentiti libero di contattarmi 
 per opportunità di lavoro o per condividere idee e suggerimenti.
 
-public class DeveloperProfile {
-
-    private String name;
-    private int enthusiasmLevel;   // 0-10
-    private int creativityLevel;   // 0-10
-    private int determinationLevel; // 0-10
-    private String language;       // "EN" o "IT"
-
-    public DeveloperProfile(String name, int enthusiasm, int creativity, int determination, String language) {
-        this.name = name;
-        this.enthusiasmLevel = enthusiasm;
-        this.creativityLevel = creativity;
-        this.determinationLevel = determination;
-        this.language = language;
-    }
-
-    public void startCoding() {
-        if (language.equalsIgnoreCase("IT")) {
-            System.out.println("Ciao! Sono " + name + " e inizio a programmare con " 
-                + enthusiasmLevel + " entusiasmo, " 
-                + creativityLevel + " creatività e " 
-                + determinationLevel + " determinazione! 💻");
-        } else {
-            System.out.println("Hi! I'm " + name + " and let's start coding with " 
-                + enthusiasmLevel + " enthusiasm, " 
-                + creativityLevel + " creativity, and " 
-                + determinationLevel + " determination! 💻");
-        }
-
-        // Mostra un piccolo elenco di skill principali
-        System.out.println("⚙️ Skills principali: Java ☕ | Spring Boot 🚀 | MySQL 🐬 | Docker 🐳 | Git 📜");
-    }
-
+public class DevProfile {
     public static void main(String[] args) {
-        DeveloperProfile profile = new DeveloperProfile("Francesco Gentile", 7, 8, 9, "IT");
-        profile.startCoding();
+        System.out.println("🚀 Ogni riga di codice è un passo verso soluzioni straordinarie.");
     }
 }
