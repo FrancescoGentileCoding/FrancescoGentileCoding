@@ -1,12 +1,12 @@
-### <h1> Hi everyone 👋 I'm Francesco Gentile </h1>
+### <h1> Ciao a tutti 👋 sono Francesco Gentile </h1>
 ### Languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,tailwind,react,nodejs,express,mongodb,mysql,postman,git,docker,kubernetes,nginx,rabbitmq,kafka,figma,insomnia&theme=light)](https://skillicons.dev)
 
-# Tech Enthusiast at Work - Francesco IM Gentile's Portfolio 💼👨‍💻 👋
+# Entusiasta all'opera! - Francesco IM Gentile's Portfolio 💼👨‍💻 👋
 
-I'm a passionate **Junior Full-Stack Developer** an i'm here to share my love for coding and creative solutions with the world.
+Sono un appassionato **Junior Full-Stack Developer** e sono qui per condividere la mia passione per la programmazione e le soluzioni creative con il mondo.
 
-## 🛠️ Technical Skills
+## 🛠️ Competenze Tecniche
 
 - **Front-End:**  
   - HTML5 🌐  
@@ -49,36 +49,59 @@ I'm a passionate **Junior Full-Stack Developer** an i'm here to share my love fo
 
 ## 🚀 Key Attributes
 
-I am known for being:
+Sono conosciuto per essere:
 
-- **Creative:** I love solving complex problems with innovative solutions. 🎨
-- **Ambitious:** I am always seeking new challenges and learning opportunities. 🚀
-- **Passionate:** My passion for technology drives my daily work. 🔥
-- **Capable:** I am committed to delivering high-quality code and effective solutions. 💡
-- **Determined:** I don't shy away from challenges and work hard to achieve my goals. 💪
-- **Balanced:** I maintain a work-life balance to maximize my productivity. ⚖️
-- **Kind:** I am a team player and collaborate well with others. 🤝
-- **Punctual:** I always meet project deadlines. 🕒
-- **Fearless:** I am not afraid to tackle new technologies or challenging tasks. 😎
-- **Ingenious:** I find creative solutions even to the most difficult problems. 🤓
+- **Creativo:** Amo risolvere problemi complessi con soluzioni innovative. 🎨  
+- **Ambizioso:** Sono sempre alla ricerca di nuove sfide e opportunità di apprendimento. 🚀  
+- **Appassionato:** La mia passione per la tecnologia guida il mio lavoro quotidiano. 🔥  
+- **Capace:** Mi impegno a fornire codice di alta qualità e soluzioni efficaci. 💡  
+- **Determinato:** Non mi tiro indietro di fronte alle sfide e lavoro sodo per raggiungere i miei obiettivi. 💪  
+- **Equilibrato:** Mantengo un equilibrio tra lavoro e vita privata per massimizzare la mia produttività. ⚖️  
+- **Gentile:** Sono un team player e collaboro bene con gli altri. 🤝  
+- **Puntuale:** Rispetto sempre le scadenze dei progetti. 🕒  
+- **Intrepido:** Non ho paura di affrontare nuove tecnologie o compiti impegnativi. 😎  
+- **Ingegnoso:** Trovo soluzioni creative anche ai problemi più difficili. 🤓
 
 
-I look forward to collaborating with you on exciting projects! Whether you're an HR professional or another developer, feel free to reach out to me for job opportunities or to share ideas and suggestions.
+Non vedo l’ora di collaborare con te su progetti entusiasmanti! 
+Che tu sia un professionista HR o un altro sviluppatore, sentiti libero di contattarmi 
+per opportunità di lavoro o per condividere idee e suggerimenti.
 
-public class StartCoding {
+public class DeveloperProfile {
 
-    public static void main(String[] args) {
-        startCoding();
+    private String name;
+    private int enthusiasmLevel;   // 0-10
+    private int creativityLevel;   // 0-10
+    private int determinationLevel; // 0-10
+    private String language;       // "EN" o "IT"
+
+    public DeveloperProfile(String name, int enthusiasm, int creativity, int determination, String language) {
+        this.name = name;
+        this.enthusiasmLevel = enthusiasm;
+        this.creativityLevel = creativity;
+        this.determinationLevel = determination;
+        this.language = language;
     }
 
-    public static void startCoding() {
-        int enthusiasmLevel = 5;   // Out of 10
-        int creativityLevel = 5;   // Out of 10
-        int determinationLevel = 5; // Out of 10
+    public void startCoding() {
+        if (language.equalsIgnoreCase("IT")) {
+            System.out.println("Ciao! Sono " + name + " e inizio a programmare con " 
+                + enthusiasmLevel + " entusiasmo, " 
+                + creativityLevel + " creatività e " 
+                + determinationLevel + " determinazione! 💻");
+        } else {
+            System.out.println("Hi! I'm " + name + " and let's start coding with " 
+                + enthusiasmLevel + " enthusiasm, " 
+                + creativityLevel + " creativity, and " 
+                + determinationLevel + " determination! 💻");
+        }
 
-        System.out.println("Let's start coding with " + enthusiasmLevel 
-            + " enthusiasm, " + creativityLevel 
-            + " creativity, and " + determinationLevel 
-            + " determination! 💻");
+        // Mostra un piccolo elenco di skill principali
+        System.out.println("⚙️ Skills principali: Java ☕ | Spring Boot 🚀 | MySQL 🐬 | Docker 🐳 | Git 📜");
+    }
+
+    public static void main(String[] args) {
+        DeveloperProfile profile = new DeveloperProfile("Francesco Gentile", 7, 8, 9, "IT");
+        profile.startCoding();
     }
 }
