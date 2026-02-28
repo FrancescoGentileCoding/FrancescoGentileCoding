@@ -1,6 +1,6 @@
 ### <h1> Hi everyone 👋 I'm Francesco Gentile </h1>
 ### Languages and tools:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,html,css,tailwind,react,nodejs,express,mongodb,postman,git,docker,kubernetes,nginx,rabbitmq,kafka&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/iconsi=java,kotlin,js,html,css,tailwind,react,nodejs,express,mongodb,mysql,postman,git,docker,kubernetes,nginx,rabbitmq,kafka,figma,insomnia&theme=light)](https://skillicons.dev)
 
 # Tech Enthusiast at Work - Francesco IM Gentile's Portfolio 💼👨‍💻 👋
 
