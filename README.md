@@ -12,20 +12,20 @@ Sono un appassionato **Junior Full-Stack Developer** e sono qui per condividere 
 |-----------|--------------------------|-------------------|------------------------|--------------------|
 | - HTML5 🌐<br>- CSS3 🎨<br>- Tailwind🌟<br>- SCSS ⚛️<br>- Bootstrap ⚛️<br>- ReactJS ⚛️<br>- Angular ⚛️<br>- TypeScript ⚛️ | - Java 21 ☕<br>- Spring Boot 3.x 🚀<br>- Spring Data JPA🗄️ <br>- Hibernate 🗄️<br>- Node.js 🚀<br>- Express 🛤️ | - MySQL 🐬<br>- MongoDB 📊<br>- Redis 🔑<br>- Elasticsearch 🔍<br>- S3 / MinIO 🗂️ | - Docker 🐳<br>- Kubernetes ☸️<br>- Nginx / Traefik 🌐<br>- RabbitMQ / Kafka ⚡<br>- Flyway / Liquibase 📜 | - Git 📜<br>- GitHub 🐱<br>- Insomnia 💤<br>- Postman 📮<br>- Agile 🏁<br>- Scrum 🔄 |
 
-## 🚀 Key Attributes
+## 💡 Key Attributes
 
 Sono conosciuto per essere:
 
-- **Creativo:** Amo risolvere problemi complessi con soluzioni innovative. 🎨  
-- **Ambizioso:** Sono sempre alla ricerca di nuove sfide e opportunità di apprendimento. 🚀  
-- **Appassionato:** La mia passione per la tecnologia guida il mio lavoro quotidiano. 🔥  
-- **Capace:** Mi impegno a fornire codice di alta qualità e soluzioni efficaci. 💡  
-- **Determinato:** Non mi tiro indietro di fronte alle sfide e lavoro sodo per raggiungere i miei obiettivi. 💪  
-- **Equilibrato:** Mantengo un equilibrio tra lavoro e vita privata per massimizzare la mia produttività. ⚖️  
-- **Gentile:** Sono un team player e collaboro bene con gli altri. 🤝  
-- **Puntuale:** Rispetto sempre le scadenze dei progetti. 🕒  
-- **Intrepido:** Non ho paura di affrontare nuove tecnologie o compiti impegnativi. 😎  
-- **Ingegnoso:** Trovo soluzioni creative anche ai problemi più difficili. 🤓
+- 🎨 **Creativo:** Soluzioni innovative e originali  
+- 🚀 **Ambizioso:** Sempre nuove sfide  
+- 🔥 **Appassionato:** Motivazione quotidiana forte  
+- 💡 **Capace:** Codice di alta qualità  
+- 💪 **Determinato:** Perseveranza nelle sfide  
+- ⚖️ **Equilibrato:** Equilibrio lavoro-vita  
+- 🤝 **Gentile:** Ottimo lavoro in team  
+- 🕒 **Puntuale:** Rispetto scadenze sempre  
+- 😎 **Intrepido:** Affronto nuove tecnologie  
+- 🤓 **Ingegnoso:** Soluzioni anche difficili
 
 
 Non vedo l’ora di collaborare con te su progetti entusiasmanti! 
