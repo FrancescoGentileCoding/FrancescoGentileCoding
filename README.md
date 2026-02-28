@@ -32,6 +32,7 @@ Non vedo l’ora di collaborare con te su progetti entusiasmanti!
 Che tu sia un professionista HR o un altro sviluppatore, sentiti libero di contattarmi 
 per opportunità di lavoro o per condividere idee e suggerimenti.
 
+```java
 public class DevProfile {
     public static void main(String[] args) {
         System.out.println("✨ Codice con passione,");
