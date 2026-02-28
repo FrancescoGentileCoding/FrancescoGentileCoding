@@ -1,12 +1,12 @@
 ### <h1> Ciao a tutti 👋 sono Francesco Gentile </h1>
-# Entusiasta all'opera! - Francesco IM Gentile's Portfolio 💼👨‍💻 👋
+Entusiasta all'opera! - Francesco IM Gentile's Portfolio 💼👨‍💻 👋
 Sono un appassionato **Junior Full-Stack Developer** e sono qui per condividere la mia passione per la programmazione e le soluzioni creative con il mondo.
 
 ### Alcuni tra languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,tailwind,react,nodejs,express,mongodb,mysql,postman,git,docker,kubernetes,nginx,rabbitmq,kafka,figma,insomnia&theme=light)](https://skillicons.dev)
 
 
-
+###
 ## 🛠️ Competenze Tecniche
 
 | Front-End | Back-End / Java Ecosystem | Databases & Storage | DevOps & Infrastructure | Tools & Methodologies |
