@@ -2,7 +2,7 @@
 Entusiasta all'opera! - Francesco IM Gentile's Portfolio 💼👨‍💻 👋
 Sono un appassionato **Junior Full-Stack Developer** e sono qui per condividere la mia passione per la programmazione e le soluzioni creative con il mondo.
 
-### Alcuni tra languages and tools:
+### Alcuni tra languages and tools che uso:
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,tailwind,react,nodejs,express,mongodb,mysql,postman,git,docker,kubernetes,nginx,rabbitmq,kafka,figma,insomnia&theme=light)](https://skillicons.dev)
 
 
@@ -15,7 +15,7 @@ Sono un appassionato **Junior Full-Stack Developer** e sono qui per condividere 
 
 
 <br>
-## 💡 Key Attributes
+💡 Key Attributes
 
 Sono conosciuto per essere:
 
@@ -34,6 +34,8 @@ Sono conosciuto per essere:
 Non vedo l’ora di collaborare con te su progetti entusiasmanti! 
 Che tu sia un professionista HR o un altro sviluppatore, sentiti libero di contattarmi 
 per opportunità di lavoro o per condividere idee e suggerimenti.
+
+<br>
 
 ```java
 public class DevProfile {
