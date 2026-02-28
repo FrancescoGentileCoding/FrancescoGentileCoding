@@ -34,6 +34,8 @@ per opportunità di lavoro o per condividere idee e suggerimenti.
 
 public class DevProfile {
     public static void main(String[] args) {
-        System.out.println("🚀 Ogni riga di codice è un passo verso soluzioni straordinarie.");
+        System.out.println("✨ Codice con passione,");
+        System.out.println("    curiosità e ingegno");
+        System.out.println("        – sempre pronto a nuove sfide! 🚀");
     }
 }
