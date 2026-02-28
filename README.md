@@ -1,5 +1,5 @@
 ### <h1> Ciao a tutti 👋 sono Francesco Gentile </h1>
-### Languages and tools:
+### Alcuni tra languages and tools:
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,tailwind,react,nodejs,express,mongodb,mysql,postman,git,docker,kubernetes,nginx,rabbitmq,kafka,figma,insomnia&theme=light)](https://skillicons.dev)
 
 # Entusiasta all'opera! - Francesco IM Gentile's Portfolio 💼👨‍💻 👋
@@ -12,7 +12,7 @@ Sono un appassionato **Junior Full-Stack Developer** e sono qui per condividere 
 
 | Front-End | Back-End / Java Ecosystem | Databases & Storage | DevOps & Infrastructure | Tools & Methodologies |
 |-----------|--------------------------|-------------------|------------------------|--------------------|
-| - HTML5 🌐<br>- CSS3 🎨<br>- TailwindCSS 🌟<br>- SCSS ⚛️<br>- Bootstrap ⚛️<br>- ReactJS ⚛️<br>- Angular ⚛️<br>- TypeScript ⚛️ | - Java 21 ☕<br>- Spring Boot 3.x 🚀<br>- Spring Data JPA + Hibernate 🗄️<br>- Node.js 🚀<br>- Express 🛤️ | - MySQL 🐬<br>- MongoDB 📊<br>- Redis 🔑<br>- Elasticsearch 🔍<br>- S3 / MinIO 🗂️ | - Docker 🐳<br>- Kubernetes ☸️<br>- Nginx / Traefik 🌐<br>- RabbitMQ / Kafka ⚡<br>- Flyway / Liquibase 📜 | - Git 📜<br>- GitHub 🐱<br>- Insomnia 💤<br>- Postman 📮<br>- Agile 🏁<br>- Scrum 🔄 |
+| - HTML5 🌐<br>- CSS3 🎨<br>- TailwindCSS🌟<br>- SCSS ⚛️<br>- Bootstrap ⚛️<br>- ReactJS ⚛️<br>- Angular ⚛️<br>- TypeScript ⚛️ | - Java 21 ☕<br>- Spring Boot 3.x 🚀<br>- Spring Data JPA🗄️ <br>- Hibernate 🗄️<br>- Node.js 🚀<br>- Express 🛤️ | - MySQL 🐬<br>- MongoDB 📊<br>- Redis 🔑<br>- Elasticsearch 🔍<br>- S3 / MinIO 🗂️ | - Docker 🐳<br>- Kubernetes ☸️<br>- Nginx / Traefik 🌐<br>- RabbitMQ / Kafka ⚡<br>- Flyway / Liquibase 📜 | - Git 📜<br>- GitHub 🐱<br>- Insomnia 💤<br>- Postman 📮<br>- Agile 🏁<br>- Scrum 🔄 |
 
 ## 🚀 Key Attributes
 
