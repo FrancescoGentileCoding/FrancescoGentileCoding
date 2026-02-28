@@ -41,7 +41,8 @@ I'm a passionate **Junior Full-Stack Developer** an i'm here to share my love fo
 
 - **Tools & Methodologies:**  
   - Git 📜  
-  - GitHub 🐱  
+  - GitHub 🐱
+  - Insomnia 💤 
   - Postman 📮  
   - Agile 🏁  
   - Scrum 🔄  
