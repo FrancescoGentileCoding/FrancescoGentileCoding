@@ -8,8 +8,6 @@ Sono un appassionato **Junior Full-Stack Developer** e sono qui per condividere 
 
 ## 🛠️ Competenze Tecniche
 
-## 🛠️ Competenze Tecniche
-
 | Front-End | Back-End / Java Ecosystem | Databases & Storage | DevOps & Infrastructure | Tools & Methodologies |
 |-----------|--------------------------|-------------------|------------------------|--------------------|
 | - HTML5 🌐<br>- CSS3 🎨<br>- Tailwind🌟<br>- SCSS ⚛️<br>- Bootstrap ⚛️<br>- ReactJS ⚛️<br>- Angular ⚛️<br>- TypeScript ⚛️ | - Java 21 ☕<br>- Spring Boot 3.x 🚀<br>- Spring Data JPA🗄️ <br>- Hibernate 🗄️<br>- Node.js 🚀<br>- Express 🛤️ | - MySQL 🐬<br>- MongoDB 📊<br>- Redis 🔑<br>- Elasticsearch 🔍<br>- S3 / MinIO 🗂️ | - Docker 🐳<br>- Kubernetes ☸️<br>- Nginx / Traefik 🌐<br>- RabbitMQ / Kafka ⚡<br>- Flyway / Liquibase 📜 | - Git 📜<br>- GitHub 🐱<br>- Insomnia 💤<br>- Postman 📮<br>- Agile 🏁<br>- Scrum 🔄 |
