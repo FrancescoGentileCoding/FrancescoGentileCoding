@@ -8,44 +8,9 @@ Sono un appassionato **Junior Full-Stack Developer** e sono qui per condividere 
 
 ## 🛠️ Competenze Tecniche
 
-- **Front-End:**  
-  - HTML5 🌐  
-  - CSS3 🎨  
-  - TailwindCSS 🌟  
-  - SCSS ⚛️  
-  - Bootstrap ⚛️  
-  - ReactJS ⚛️  
-  - Angular ⚛️  
-  - TypeScript ⚛️  
-
-- **Back-End / Java Ecosystem:**  
-  - Java 21 ☕  
-  - Spring Boot 3.x 🚀  
-  - Spring Data JPA + Hibernate 🗄️  
-  - Node.js 🚀  
-  - Express 🛤️  
-
-- **Databases & Storage:**  
-  - MySQL 🐬  
-  - MongoDB 📊  
-  - Redis (cache, session) 🔑  
-  - Elasticsearch (opzionale, full-text search) 🔍  
-  - S3 / MinIO (file storage) 🗂️  
-
-- **DevOps & Infrastructure:**  
-  - Docker 🐳 + Kubernetes ☸️  
-  - Nginx / Traefik 🌐  
-  - RabbitMQ / Kafka (event bus) ⚡  
-  - Flyway / Liquibase (DB migrations) 📜  
-
-- **Tools & Methodologies:**  
-  - Git 📜  
-  - GitHub 🐱
-  - Insomnia 💤 
-  - Postman 📮  
-  - Agile 🏁  
-  - Scrum 🔄  
-
+| Front-End | Back-End / Java Ecosystem | Databases & Storage | DevOps & Infrastructure | Tools & Methodologies |
+|-----------|--------------------------|-------------------|------------------------|--------------------|
+| HTML5 🌐<br>CSS3 🎨<br>TailwindCSS 🌟<br>SCSS ⚛️<br>Bootstrap ⚛️<br>ReactJS ⚛️<br>Angular ⚛️<br>TypeScript ⚛️ | Java 21 ☕<br>Spring Boot 3.x 🚀<br>Spring Data JPA + Hibernate 🗄️<br>Node.js 🚀<br>Express 🛤️ | MySQL 🐬<br>MongoDB 📊<br>Redis 🔑<br>Elasticsearch 🔍<br>S3 / MinIO 🗂️ | Docker 🐳<br>Kubernetes ☸️<br>Nginx / Traefik 🌐<br>RabbitMQ / Kafka ⚡<br>Flyway / Liquibase 📜 | Git 📜<br>GitHub 🐱<br>Insomnia 💤<br>Postman 📮<br>Agile 🏁<br>Scrum 🔄 |
 
 ## 🚀 Key Attributes
 
