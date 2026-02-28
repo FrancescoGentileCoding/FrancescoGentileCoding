@@ -7,7 +7,7 @@ Sono un appassionato **Junior Full-Stack Developer** e sono qui per condividere 
 
 
 ###
-## 🛠️ Competenze Tecniche
+## 🛠️ Competenze Tecniche ⬇️
 
 | Front-End | Back-End / Java Ecosystem | Databases & Storage | DevOps & Infrastructure | Tools & Methodologies |
 |-----------|--------------------------|-------------------|------------------------|--------------------|
